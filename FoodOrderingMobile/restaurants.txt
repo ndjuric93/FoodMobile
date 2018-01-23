@@ -1,0 +1,4 @@
+Burrito,Beautiful Mexican Restaurant with wide selection of mexican specialties,4.7,Burrito.jpg
+WurstPlace,Nice looking German restaurant with all types of sausages you can imagine,4.3,Wurst.jpg
+PingPong,Classic Chinese food for all tastes!,3,PingPong.jpg
+PizzaPalace,Place with more than 50 pizza types just for you,4.3,PizzaPalace.jpg

@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Login.ui.qml</file>
+        <file>Orders.ui.qml</file>
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Map.ui.qml</file>
+        <file>OrderProperty.qml</file>
+        <file>Overeat-Greasy-Foods.jpg</file>
+        <file>food_ordering logo.png</file>
+        <file>orders.txt</file>
+    </qresource>
+</RCC>

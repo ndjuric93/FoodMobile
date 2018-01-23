@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Page2Form.ui.qml</file>
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Page1Form.ui.qml</file>
+        <file>Overeat-Greasy-Foods.jpg</file>
+        <file>Page3Form.ui.qml</file>
+        <file>RestaurantProperty.qml</file>
+        <file>restaurants.txt</file>
+        <file>Burrito.jpg</file>
+        <file>PingPong.jpg</file>
+        <file>PizzaPalace.jpg</file>
+        <file>Wurst.jpg</file>
+        <file>FoodProperty.qml</file>
+        <file>Page4Form.ui.qml</file>
+        <file>Page5Form.ui.qml</file>
+        <file>ShoppingCartProperty.qml</file>
+        <file>meals_label.png</file>
+        <file>settings.png</file>
+        <file>restaurants_label.png</file>
+        <file>food_ordering logo.png</file>
+        <file>shopping_cart.png</file>
+        <file>Bratwurst_food.jpg</file>
+        <file>Knackwurst_food.jpg</file>
+        <file>Taco_food.jpg</file>
+        <file>Burrito_food.jpg</file>
+        <file>settings-icon.png</file>
+        <file>chinese_noodles.jpg</file>
+        <file>Cappriciosa_food.jpg</file>
+        <file>Margherita_food.jpg</file>
+        <file>Sweet_and_sour_food.jpg</file>
+    </qresource>
+</RCC>

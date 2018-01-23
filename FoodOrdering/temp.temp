@@ -1,0 +1,33 @@
+
+    ToolBar {
+        id: mobile_toolbar
+        x: 0
+        y: 58
+        width: 163
+        height: 181
+        visible: true
+
+        ColumnLayout {
+            id: columnLayout
+            x: 0
+            y: 0
+            width: 90
+            height: 133
+
+            ToolButton {
+                text: "Restaurants"
+            }
+
+            ToolButton {
+                text: "Meals"
+            }
+
+            ToolButton {
+                text: "Shopping Cart"
+            }
+
+            ToolButton {
+                text: "Settings"
+            }
+        }
+    }

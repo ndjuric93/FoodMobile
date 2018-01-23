@@ -1,0 +1,6 @@
+Burrito.John Smith.71 Pilgrim Avenue.Burrito, Burrito, Taco.850rsd
+PizzaPalace.Mark Smith.70 Bowman Street.Cappriciosa, Cappriciosa, Cappriciosa.900rsd
+PizzaPalace.John Smith.44 Shirley Avenue.Cappriciosa, Cappriciosa, Margherita.850rsd
+PingPong.Ainslie Norbert.4 Goldfield Road.Noodles.300rsd
+PingPong.Nanny Nessa.20 Magnolia Street.Burrito, Noodles, Noodles, Noodles, Chicken with Peanuts.850rsd
+Wurst.Jeane Primrose.522 Winchester Avenue.Burrito, KnackWurst, Knackwurst, Knackwurst.700rsd

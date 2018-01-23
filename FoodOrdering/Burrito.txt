@@ -1,0 +1,2 @@
+Burrito.Lunch.Beef Meat, Lettuce, Tomato, Tortilla.Authentic Mexican Burrito with standard supplements.Burrito_food.300rsd
+Taco.Lunch.Beef Meat, Lettuce, Tomato, Tortilla.Authentic Mexican Burrito with standard supplements.Taco_food.250rsd
